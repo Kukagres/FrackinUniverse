@@ -514,5 +514,88 @@
     "op": "replace",
     "path": "/quagmuttHunting/0/1/pool/2/item",
     "value": "quagmuttaf"
+  },
+ {
+  "op": "replace",
+  "path": "/agrobatHunting/0/1/pool/0/weight",
+  "value": 0.598
+ },
+ {
+  "op": "add",
+  "path": "/agrobatHunting/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxagrobathat"
   }
+ },
+ {
+  "op": "replace",
+  "path": "/batongHunting/0/1/pool/0/weight",
+  "value": 0.598
+ },
+ {
+  "op": "add",
+  "path": "/batongHunting/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxbatongmask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/bobfaeHunting/0/1/pool/0/weight",
+  "value": 0.598
+ },
+ {
+  "op": "add",
+  "path": "/bobfaeHunting/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxbobfaemask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/bulbopHunting/0/1/pool/0/weight",
+  "value": 0.996
+ },
+ {
+  "op": "add",
+  "path": "/bulbopHunting/0/1/pool/2",
+  "value": {
+   "weight": 0.002,
+   "item": "pandorasboxbulbopmask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/skimbusHunting/0/1/pool/1/weight",
+  "value": 0.498
+ },
+ {
+  "op": "replace",
+  "path": "/skimbusHunting/0/1/pool/0/weight",
+  "value": 0.498
+ },
+ {
+  "op": "add",
+  "path": "/skimbusHunting/0/1/pool/3",
+  "value": {
+   "weight": 0.002,
+   "item": "pandorasboxskimbusmask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/tinticHunting/0/1/pool/0/weight",
+  "value": 0.996
+ },
+ {
+  "op": "add",
+  "path": "/tinticHunting/0/1/pool/2",
+  "value": {
+   "weight": 0.002,
+   "item": "pandorasboxtintichat"
+  }
+ }
 ]

@@ -242,4 +242,82 @@
             "allowDuplication" : false
         }]]
  }
+ {
+  "op": "replace",
+  "path": "/agrobatTreasure/0/1/pool/0/weight",
+  "value": 0.798
+ },
+ {
+  "op": "add",
+  "path": "/agrobatTreasure/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxagrobathat"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/batongTreasure/0/1/pool/0/weight",
+  "value": 0.798
+ },
+ {
+  "op": "add",
+  "path": "/batongTreasure/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxbatongmask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/bobfaeTreasure/0/1/pool/0/weight",
+  "value": 0.798
+ },
+ {
+  "op": "add",
+  "path": "/bobfaeTreasure/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxbobfaemask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/bulbopTreasure/0/1/pool/0/weight",
+  "value": 0.798
+ },
+ {
+  "op": "add",
+  "path": "/bulbopTreasure/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxbulbopmask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/skimbusTreasure/0/1/pool/0/weight",
+  "value": 0.798
+ },
+ {
+  "op": "add",
+  "path": "/skimbusTreasure/0/1/pool/4",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxskimbusmask"
+  }
+ },
+ {
+  "op": "replace",
+  "path": "/tinticTreasure/0/1/pool/0/weight",
+  "value": 0.798
+ },
+ {
+  "op": "add",
+  "path": "/tinticTreasure/0/1/pool/3",
+  "value": {
+   "weight": 0.001,
+   "item": "pandorasboxtintichat"
+  }
+ }
 ]
